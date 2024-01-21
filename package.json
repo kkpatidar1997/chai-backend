@@ -1,0 +1,16 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "series on backend",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascipt",
+    "backend"
+  ],
+  "author": "krishpa",
+  "license": "ISC"
+}
